@@ -6,8 +6,9 @@
 ******************************************************************************/
 
 /*
-  Code to find minimum, maximum and toal number of elemets,
-  in a set of positive elments
+  Code to find fibonacci number, corresponding to an integer > 2
+ Input 1)Number N > 2
+ Output 1)Fibonacci(N)
   */
 
   @ BSS section

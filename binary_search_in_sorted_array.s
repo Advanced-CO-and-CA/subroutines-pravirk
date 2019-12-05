@@ -6,8 +6,9 @@
 ******************************************************************************/
 
 /*
-  Code to find minimum, maximum and toal number of elemets,
-  in a set of positive elments
+  Code to do Binary Search in sorted Array, sorted in ascending order
+ Input 1)Array length 2)Sorted Array elemets 3)Element to serach
+ Output 1)Index of the srach element in the array 2) -1, if the element is not found in array
   */
 
   @ BSS section

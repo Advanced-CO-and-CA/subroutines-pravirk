@@ -1,13 +1,14 @@
 
 /******************************************************************************
-* file: min_max.s
+* file: search_unsorted_array.s
 * author: Pravir
 * Guide: Prof. Madhumutyam IITM, PACE
 ******************************************************************************/
 
 /*
-  Code to find minimum, maximum and toal number of elemets,
-  in a set of positive elments
+  Code to sort elements in an unsorted array.
+  Input 1)Array length 2)Array elemets 3)Element to serach
+  Output 1)Index of the srach element in the array 2) -1, if the element is not found in array
   */
 
   @ BSS section
